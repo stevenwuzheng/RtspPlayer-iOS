@@ -1,0 +1,4 @@
+.swift linguist-language=swift
+*.h linguist-language=swift
+*.m linguist-language=swift
+*.c linguist-language=swift
