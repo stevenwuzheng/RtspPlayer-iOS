@@ -9,6 +9,8 @@ Optimized  rtsp or http Universal player
 VideoToolbox硬解码很多rtsp的流播放不了。
 
 基于以上测试的结果，我们项目最终还是选用FFmpeg+kxmovie的方式播放实时流，通过修改源码进行一些优化，目前该播放器播放rtsp实时画面延迟较少。
-现开放此播放器完整源码，喜欢的话可以拿走，也可以Star关注一下~
+现开放此播放器完整源码(界面UI自己可以动手随心所欲修改)，喜欢的话可以拿走，也可以Star关注一下~
 
+
+播放截图如下：
 
