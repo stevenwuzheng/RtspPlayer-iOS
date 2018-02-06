@@ -13,4 +13,4 @@ VideoToolbox硬解码很多rtsp的流播放不了。
 
 
 播放截图如下：
-
+![](https://raw.githubusercontent.com/stevenwuzheng/RtspPlayer-iOS/master/ScreenShot123.png)
